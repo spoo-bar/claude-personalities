@@ -1,0 +1,14 @@
+{
+  "name": "spoo-bar",
+  "owner": {
+    "name": "spoo-bar",
+    "email": "hello@spoorthi.dev"
+  },
+  "plugins": [
+    {
+      "name": "claude-personalities",
+      "source": ".",
+      "description": "A collection of output styles that give Claude Code different personalities."
+    }
+  ]
+}

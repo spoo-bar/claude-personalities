@@ -1,0 +1,11 @@
+{
+  "name": "claude-personalities",
+  "version": "0.1.0",
+  "description": "A collection of output styles that give Claude Code different personalities.",
+  "author": {
+    "name": "spoo-bar",
+    "email": "hello@spoorthi.dev"
+  },
+  "license": "GPL-3.0",
+  "keywords": ["output-styles", "personalities", "claude-code"]
+}
