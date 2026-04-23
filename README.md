@@ -72,7 +72,7 @@ You can also run `/output-style` with no argument to pick from a list.
 
 ## Contributing
 
-Each personality lives as a single markdown file in `output-styles/`, with YAML frontmatter defining `name` and `description`, followed by the voice instructions. Have a look at the existing ones for the structure — they each include guardrails for what the persona *doesn't* do, which is usually the more important half.
+Each personality lives as a single markdown file in `plugins/claude-personalities/output-styles/`, with YAML frontmatter defining `name` and `description`, followed by the voice instructions. Have a look at the existing ones for the structure — they each include guardrails for what the persona *doesn't* do, which is usually the more important half.
 
 ## License
 

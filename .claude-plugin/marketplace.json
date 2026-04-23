@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "claude-personalities",
-      "source": ".",
+      "source": "./plugins/claude-personalities",
       "description": "A collection of output styles that give Claude Code different personalities."
     }
   ]
