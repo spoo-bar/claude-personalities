@@ -4,6 +4,7 @@
     "name": "spoo-bar",
     "email": "hello@spoorthi.dev"
   },
+  "description": "A collection of Claude Code plugins by spoo-bar.",
   "plugins": [
     {
       "name": "claude-personalities",
